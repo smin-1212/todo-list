@@ -1,6 +1,13 @@
-Project Create
+### Project Create
 ```
   $ npx create-react-app todo-list --scripts-version=1.1.5
+```
+
+### 환경구성
+```
+  $ yarn eject
+  $ yarn add sass-loader node-sass classnames
+
 ```
 
 Below you will find some information on how to perform common tasks.<br>
