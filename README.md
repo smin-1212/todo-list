@@ -10,6 +10,7 @@
   $ yarn eject
   $ yarn add sass-loader node-sass classnames
   $ yarn add open-color
+  $ yarn add redux react-redux redux-actions immutable
 ```
 
 ### 구동
