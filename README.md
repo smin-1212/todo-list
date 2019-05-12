@@ -7,6 +7,7 @@
 ```
   $ yarn eject
   $ yarn add sass-loader node-sass classnames
+  $ yarn add open-color
 
 ```
 
